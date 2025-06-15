@@ -3,7 +3,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.odd.third {
+.font {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #another {
     background-color: #14ff4c;
-    font-size: 24px;
     font-weight: bold;
 }
