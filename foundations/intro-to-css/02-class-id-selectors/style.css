@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ff007a;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#unique {
+    color: #1400ff;
+    font-size: 36px;
+}
+
+#another {
+    background-color: #14ff4c;
+    font-size: 24px;
+    font-weight: bold;
+}
